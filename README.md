@@ -72,5 +72,5 @@ Once tested, deploy the API to a production environment using a service like AWS
 
 This workflow is universal for Data Science projects and can be adapted for different types of predictions or classifications. Let me know if you'd like more details or specific code examples for any step!
 **OUTPUT**
-![Uploading OUTPUT.jpeg…]()
+![Image](https://github.com/user-attachments/assets/ecc7cc55-6765-404f-96c6-fde0873bfeba)
 
