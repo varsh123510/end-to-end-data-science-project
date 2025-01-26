@@ -71,3 +71,6 @@ The API will return the predicted house price based on the model.
 Once tested, deploy the API to a production environment using a service like AWS, Google Cloud, or Heroku. This allows other users to access the API.
 
 This workflow is universal for Data Science projects and can be adapted for different types of predictions or classifications. Let me know if you'd like more details or specific code examples for any step!
+**OUTPUT**
+![Uploading OUTPUT.jpeg…]()
+
